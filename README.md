@@ -1,3 +1,9 @@
+# Prashanth Kumar Kavuri
+
+Portfolio: https://prashanthkavuri.tech
+Email: [prashanthkavuri786@gmail.com](mailto:prashanthkavuri786@gmail.com)
+
+
 # 💫 About Me:
 
 I’m a Computer Science student specializing in AI/ML and full-stack development.
