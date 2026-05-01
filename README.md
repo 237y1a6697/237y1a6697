@@ -1,5 +1,33 @@
 # 💫 About Me:
-## 🚀 Currently Working On<br><br>* Building AI-powered web applications combining **ML + Full-Stack development**<br>* Enhancing my portfolio with real-world, scalable projects<br><br>## 👯 Looking to Collaborate On<br><br>* Open-source projects in **AI/ML, Data Analytics, and Web Development**<br>* Innovative ideas involving **NLP, dashboards, and automation**<br><br>## 🤝 Looking for Help With<br><br>* Improving **system design & scalable architectures**<br>* Advanced **machine learning optimization techniques**<br><br>## 🌱 Currently Learning<br><br>* Deep Learning & advanced ML concepts<br>* Backend scalability and system design<br>* API integrations and performance optimization<br><br>## 💬 Ask Me About<br><br>* Full-stack development (React, Node.js)<br>* Machine Learning & Data Analysis<br>* Building real-world projects from scratch<br><br>## ⚡ Fun Fact<br><br>* I enjoy turning complex data into simple, interactive applications 🚀<br>
+
+I’m a Computer Science student specializing in AI/ML and full-stack development.
+I enjoy building data-driven applications and turning complex problems into simple, usable solutions.
+
+## 🚀Currently Working On
+
+* AI-powered web applications (ML + full-stack)
+* Improving real-world project quality and scalability
+
+## 🤝 Collaboration
+
+* Open-source projects in AI/ML, data analytics, and web development
+* Ideas involving NLP, dashboards, and automation
+
+## 🌱 Learning
+
+* Deep learning and advanced ML concepts
+* Backend scalability and system design
+* API integrations and performance optimization
+
+## 💬 Ask Me About
+
+* Full-stack development (React, Node.js)
+* Machine learning and data analysis
+* Building end-to-end projects
+
+## ⚡ Fun Fact
+
+I like simplifying complex data into clean, interactive applications.
 
 
 ## 🌐 Socials:
